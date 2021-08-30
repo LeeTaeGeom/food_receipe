@@ -1,0 +1,15 @@
+
+.todoinput{
+    display: block;
+    width: 250px;
+    padding-left: 10px;
+}
+
+.todolist{
+    margin: 20px;
+}
+
+br{
+    display: block;
+    border: 2px;
+}

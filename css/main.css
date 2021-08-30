@@ -1,0 +1,57 @@
+.head{
+    text-align: center;
+    padding: 30px;    
+    background-color: #2EFE64;
+    font-size: 40px;
+}
+#nav5{
+    padding: 10px;
+}
+.head a{
+    text-decoration: none;
+    color: green;
+    
+}
+.recipe{
+    width: 100%;
+    text-align: center;
+    
+}
+.recipe a{
+    display:inline-block;
+    margin: 50px;
+    text-decoration: none;
+    color: black;
+
+}
+.recipe a:hover{
+    color: #f1c447;
+}
+.recipe img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+.if{ 
+    display: flex;
+}
+.si{
+    width: 35%;
+}
+.ma{
+    width: 65%;
+    
+    padding-left: 120px;
+    padding-top: 30px;
+   
+}
+.ig, .sc{
+    display: inline-block;
+    text-align: left;
+}
+iframe{
+    padding: 0;
+}
+.lab{
+    text-align: center;
+}
